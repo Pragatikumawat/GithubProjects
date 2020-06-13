@@ -1,1 +1,1 @@
-# GithubProjects
+# pragati.GithubProjects
